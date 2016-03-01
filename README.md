@@ -1,7 +1,7 @@
 # FBGroupCms
 facebook group as forum, search content, create topics and tags, post from facebook and from this cms
 
-ToDo
+# ToDo
 1. create basic connection with fb opengraph and fb tokens.
 2. User must agree to save his/her content on another DB than fb
 3. pull content from fb group as json
